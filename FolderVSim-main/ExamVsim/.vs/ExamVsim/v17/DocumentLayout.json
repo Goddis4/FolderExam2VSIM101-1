@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{172870BF-1645-4EAA-8229-9C468ABDB156}|ExamVsim.vcxproj|C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\Datasett.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{172870BF-1645-4EAA-8229-9C468ABDB156}|ExamVsim.vcxproj|solutionrelative:Datasett.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172870BF-1645-4EAA-8229-9C468ABDB156}|ExamVsim.vcxproj|C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\ExamVsim.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{172870BF-1645-4EAA-8229-9C468ABDB156}|ExamVsim.vcxproj|solutionrelative:ExamVsim.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172870BF-1645-4EAA-8229-9C468ABDB156}|ExamVsim.vcxproj|C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\BSplineSurface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{172870BF-1645-4EAA-8229-9C468ABDB156}|ExamVsim.vcxproj|solutionrelative:BSplineSurface.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172870BF-1645-4EAA-8229-9C468ABDB156}|ExamVsim.vcxproj|C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\BSplineSurface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{172870BF-1645-4EAA-8229-9C468ABDB156}|ExamVsim.vcxproj|solutionrelative:BSplineSurface.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172870BF-1645-4EAA-8229-9C468ABDB156}|ExamVsim.vcxproj|C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\Ballphys.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{172870BF-1645-4EAA-8229-9C468ABDB156}|ExamVsim.vcxproj|solutionrelative:Ballphys.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172870BF-1645-4EAA-8229-9C468ABDB156}|ExamVsim.vcxproj|C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\Datasett.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{172870BF-1645-4EAA-8229-9C468ABDB156}|ExamVsim.vcxproj|solutionrelative:Datasett.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172870BF-1645-4EAA-8229-9C468ABDB156}|ExamVsim.vcxproj|C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\Spheres.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{172870BF-1645-4EAA-8229-9C468ABDB156}|ExamVsim.vcxproj|solutionrelative:Spheres.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172870BF-1645-4EAA-8229-9C468ABDB156}|ExamVsim.vcxproj|C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\Spheres.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{172870BF-1645-4EAA-8229-9C468ABDB156}|ExamVsim.vcxproj|solutionrelative:Spheres.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172870BF-1645-4EAA-8229-9C468ABDB156}|ExamVsim.vcxproj|C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\Ballphys.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{172870BF-1645-4EAA-8229-9C468ABDB156}|ExamVsim.vcxproj|solutionrelative:Ballphys.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Spheres.cpp",
+              "DocumentMoniker": "C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\Spheres.cpp",
+              "RelativeDocumentMoniker": "Spheres.cpp",
+              "ToolTip": "C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\Spheres.cpp",
+              "RelativeToolTip": "Spheres.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T08:24:10.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Spheres.h",
+              "DocumentMoniker": "C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\Spheres.h",
+              "RelativeDocumentMoniker": "Spheres.h",
+              "ToolTip": "C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\Spheres.h",
+              "RelativeToolTip": "Spheres.h",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T18:41:17.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ballphys.h",
+              "DocumentMoniker": "C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\Ballphys.h",
+              "RelativeDocumentMoniker": "Ballphys.h",
+              "ToolTip": "C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\Ballphys.h",
+              "RelativeToolTip": "Ballphys.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAhwCUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T08:23:31.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Datasett.cpp",
+              "DocumentMoniker": "C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\Datasett.cpp",
+              "RelativeDocumentMoniker": "Datasett.cpp",
+              "ToolTip": "C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\Datasett.cpp",
+              "RelativeToolTip": "Datasett.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-25T14:37:21.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BSplineSurface.h",
+              "DocumentMoniker": "C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\BSplineSurface.h",
+              "RelativeDocumentMoniker": "BSplineSurface.h",
+              "ToolTip": "C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\BSplineSurface.h",
+              "RelativeToolTip": "BSplineSurface.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-02T19:27:18.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BSplineSurface.cpp",
+              "DocumentMoniker": "C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\BSplineSurface.cpp",
+              "RelativeDocumentMoniker": "BSplineSurface.cpp",
+              "ToolTip": "C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\BSplineSurface.cpp",
+              "RelativeToolTip": "BSplineSurface.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T19:27:25.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ballphys.cpp",
+              "DocumentMoniker": "C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\Ballphys.cpp",
+              "RelativeDocumentMoniker": "Ballphys.cpp",
+              "ToolTip": "C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\Ballphys.cpp",
+              "RelativeToolTip": "Ballphys.cpp",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAYwG0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T13:35:52.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Datasett.h",
+              "DocumentMoniker": "C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\Datasett.h",
+              "RelativeDocumentMoniker": "Datasett.h",
+              "ToolTip": "C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\Datasett.h",
+              "RelativeToolTip": "Datasett.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T11:38:03.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExamVsim.cpp",
+              "DocumentMoniker": "C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\ExamVsim.cpp",
+              "RelativeDocumentMoniker": "ExamVsim.cpp",
+              "ToolTip": "C:\\Github\\OpenGL\\FolderVSim\\FolderVSim\\ExamVsim\\ExamVsim.cpp",
+              "RelativeToolTip": "ExamVsim.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T14:42:08.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

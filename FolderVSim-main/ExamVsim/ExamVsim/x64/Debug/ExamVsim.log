@@ -1,0 +1,88 @@
+﻿  Ballphys.cpp
+  Datasett.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,82): warning C4267: 'initializing': conversion from 'size_t' to '_Objty', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,82): warning C4267:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,82): warning C4267:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,82): warning C4267:             _Objty=unsigned int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,82): warning C4267:         ]
+  (compiling source file 'Datasett.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,82):
+      the template instantiation context (the oldest one first) is
+          C:\Github\OpenGL\VSimFolder\ExamVsim\Datasett.cpp(168,34):
+          see reference to function template instantiation 'std::vector<GLuint,std::allocator<GLuint>>::vector<std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Ty=size_t,
+              _Iter=std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<size_t>>>,
+              _Alloc=std::allocator<GLuint>
+          ]
+              C:\Github\OpenGL\VSimFolder\ExamVsim\Datasett.cpp(168,34):
+              see the first reference to 'std::vector<GLuint,std::allocator<GLuint>>::vector' in 'Datasett::setupBuffers'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vector(635,13):
+          see reference to function template instantiation 'void std::vector<GLuint,std::allocator<GLuint>>::_Construct_n<const unsigned __int64*,const unsigned __int64*>(const unsigned __int64,const unsigned __int64 *&&,const unsigned __int64 *&&)' being compiled
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vector(2082,36):
+          see reference to function template instantiation 'unsigned int *std::_Uninitialized_copy<_Ty,_Ty,std::allocator<GLuint>>(_InIt,_Se,unsigned int *,_Alloc &)' being compiled
+          with
+          [
+              _Ty=const unsigned __int64 *,
+              _InIt=const unsigned __int64 *,
+              _Se=const unsigned __int64 *,
+              _Alloc=std::allocator<GLuint>
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(1855,17):
+          see reference to function template instantiation 'void std::_Uninitialized_backout_al<std::allocator<GLuint>>::_Emplace_back<const unsigned __int64&>(const unsigned __int64 &)' being compiled
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(1801,35):
+          see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,const unsigned __int64&>(_Alloc &,_Objty *const ,const unsigned __int64 &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<GLuint>,
+              _Ty=unsigned int,
+              _Objty=unsigned int
+          ]
+  
+  ExamVsim.cpp
+C:\Github\OpenGL\VSimFolder\ExamVsim\ExamVsim.cpp(144,52): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,82): warning C4267: 'initializing': conversion from 'size_t' to '_Objty', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,82): warning C4267:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,82): warning C4267:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,82): warning C4267:             _Objty=unsigned int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,82): warning C4267:         ]
+  (compiling source file 'ExamVsim.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(723,82):
+      the template instantiation context (the oldest one first) is
+          C:\Github\OpenGL\VSimFolder\ExamVsim\ExamVsim.cpp(87,34):
+          see reference to function template instantiation 'std::vector<GLuint,std::allocator<GLuint>>::vector<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Ty=size_t,
+              _Iter=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<size_t>>>,
+              _Alloc=std::allocator<GLuint>
+          ]
+              C:\Github\OpenGL\VSimFolder\ExamVsim\ExamVsim.cpp(87,34):
+              see the first reference to 'std::vector<GLuint,std::allocator<GLuint>>::vector' in 'main'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vector(635,13):
+          see reference to function template instantiation 'void std::vector<GLuint,std::allocator<GLuint>>::_Construct_n<unsigned __int64*,unsigned __int64*>(const unsigned __int64,unsigned __int64 *&&,unsigned __int64 *&&)' being compiled
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\vector(2082,36):
+          see reference to function template instantiation 'unsigned int *std::_Uninitialized_copy<_Ty,_Ty,std::allocator<GLuint>>(_InIt,_Se,unsigned int *,_Alloc &)' being compiled
+          with
+          [
+              _Ty=unsigned __int64 *,
+              _InIt=unsigned __int64 *,
+              _Se=unsigned __int64 *,
+              _Alloc=std::allocator<GLuint>
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(1855,17):
+          see reference to function template instantiation 'void std::_Uninitialized_backout_al<std::allocator<GLuint>>::_Emplace_back<unsigned __int64&>(unsigned __int64 &)' being compiled
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\include\xmemory(1801,35):
+          see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,unsigned __int64&>(_Alloc &,_Objty *const ,unsigned __int64 &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<GLuint>,
+              _Ty=unsigned int,
+              _Objty=unsigned int
+          ]
+  
+  Spheres.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  ExamVsim.vcxproj -> C:\Github\OpenGL\VSimFolder\ExamVsim\x64\Debug\ExamVsim.exe
